@@ -70,7 +70,7 @@
 #hua{
     width: .33rem;
     height: .22rem;
-   margin: .47rem 0 .26rem 0;
+   margin-bottom:.26rem;
 
 }
 .hua2{
@@ -99,11 +99,20 @@
 #hua2{
     color: white;
     font-size: .28rem;
-    margin: 5.5rem 0 .25rem 0;
+    margin-bottom:.25rem;
 }
 #hua2-1{
     width: .33rem;
     height: .22rem;
     transform: rotate(180deg);
     -webkit-transform: rotate(180deg);
+}
+.fud{
+    position: absolute;
+    left: 50%;
+    bottom: .47rem;
+    transform: translateX(-50%);
+}
+#er{
+    margin-top: 1.46rem;
 }
