@@ -112,6 +112,7 @@
     left: 50%;
     bottom: .47rem;
     transform: translateX(-50%);
+
     animation-name: tiaodong;
     animation-duration: 1.5s;
     animation-timing-function: linear;
